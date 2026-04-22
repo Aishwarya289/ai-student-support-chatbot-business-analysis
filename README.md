@@ -1,4 +1,5 @@
 # AI Student Support Chatbot – Business Analysis Project
+A complete end-to-end Business Analysis project demonstrating requirement gathering, process improvement, system modelling, and testing for an AI-based chatbot system.
 
 ## Overview
 This project demonstrates a complete Business Analysis lifecycle for designing an AI-powered student support chatbot system to improve student support services.
@@ -11,7 +12,16 @@ An AI-based chatbot system that automates responses to frequently asked question
 
 ## Key Contributions
 
+- Developed a comprehensive Business Requirements Document (BRD)
+- Defined functional and non-functional requirements
+- Created user stories and acceptance criteria
+- Designed AS-IS and TO-BE process models
+- Built 3 use case diagrams and a Data Flow Diagram (DFD)
+- Developed test plan, test cases, risk register, and KPIs
+- Created project timeline and budget estimation
+  
 ## Visual Diagrams
+The following diagrams illustrate the current system (AS-IS), the proposed improved system (TO-BE), and the data flow within the chatbot system.
 
 ### AS-IS Process
   <img width="501" height="602" alt="image" src="https://github.com/user-attachments/assets/5f483e9e-3c52-4e67-beac-e07bc8db59bf" />
@@ -27,19 +37,9 @@ An AI-based chatbot system that automates responses to frequently asked question
 - Business Requirement Gathering
 - Process Analysis & Improvement
 - System Modelling (UML, DFD)
-- Stakeholder Thinking
+- Stakeholder Analysis
 - Test Planning & Validation
 - Risk Analysis & KPI Definition
-
-## Structure  
-- Developed a comprehensive Business Requirements Document (BRD)
-- Defined functional and non-functional requirements
-- Created user stories and acceptance criteria
-- Designed AS-IS and TO-BE process models
-- Built 3 use case diagrams and a Data Flow Diagram (DFD)
-- Developed test plan, test cases, risk register, and KPIs
-- Created project timeline and budget estimation
-  
 
 ## Tools Used
 - Draw.io (Process and system diagrams)
