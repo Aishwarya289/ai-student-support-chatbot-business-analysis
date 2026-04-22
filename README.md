@@ -45,8 +45,12 @@ An AI-based chatbot system that automates responses to frequently asked question
 - Draw.io (Process and system diagrams)
 - Microsoft Word (Documentation)
   
-## Outcome
-The proposed solution improves response time, reduces workload on staff, and enhances student experience.
+## Project Impact
 
+- Reduced response time for student queries
+- Improved efficiency by automating repetitive questions
+- Reduced workload on university support staff
+- Enhanced student experience through faster support
+  
 ## Author
 Aishwarya Ravichandran
