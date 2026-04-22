@@ -1,19 +1,29 @@
 # AI Student Support Chatbot – Business Analysis Project
 
 ## Overview
-This project demonstrates a complete Business Analysis lifecycle for designing an AI-powered student support chatbot system.
+This project demonstrates a complete Business Analysis lifecycle for designing an AI-powered student support chatbot system to improve student support services.
 
-## Key Deliverables
-- Business Requirements Document (BRD)
-- Functional & Non-functional requirements
-- AS-IS and TO-BE process models
-- Use Case Diagrams and Data Flow Diagram (DFD)
-- Test Plan and Test Cases
-- Risk Register and KPIs
-- Project Timeline and Budget
+## Problem Statement
+Students experience delays in receiving information regarding tuition fees, course selection, and administrative processes due to staff limitations and system inefficiencies.
 
-## Objective
-To improve student support services by automating frequently asked queries and reducing response time using an AI chatbot.
+## Solution
+An AI-based chatbot system that automates responses to frequently asked questions and escalates complex queries to support staff.
+
+## Key Contributions
+- Developed a comprehensive Business Requirements Document (BRD)
+- Defined functional and non-functional requirements
+- Created user stories and acceptance criteria
+- Designed AS-IS and TO-BE process models
+- Built 3 use case diagrams and a Data Flow Diagram (DFD)
+- Developed test plan, test cases, risk register, and KPIs
+- Created project timeline and budget estimation
+
+## Tools Used
+- Draw.io (Process and system diagrams)
+- Microsoft Word (Documentation)
+
+## Outcome
+The proposed solution improves response time, reduces workload on staff, and enhances student experience.
 
 ## Author
 Aishwarya Ravichandran
