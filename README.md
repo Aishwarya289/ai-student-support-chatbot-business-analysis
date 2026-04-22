@@ -14,6 +14,7 @@ An AI-based chatbot system that automates responses to frequently asked question
 - Defined functional and non-functional requirements
 - Created user stories and acceptance criteria
 - Designed AS-IS and TO-BE process models
+
 AS-IS
   <img width="501" height="602" alt="image" src="https://github.com/user-attachments/assets/5f483e9e-3c52-4e67-beac-e07bc8db59bf" />
 TO-BE
