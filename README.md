@@ -10,14 +10,7 @@ Students experience delays in receiving information regarding tuition fees, cour
 An AI-based chatbot system that automates responses to frequently asked questions and escalates complex queries to support staff.
 
 ## Key Contributions
-- Developed a comprehensive Business Requirements Document (BRD)
-- Defined functional and non-functional requirements
-- Created user stories and acceptance criteria
-- Designed AS-IS and TO-BE process models
-- Built 3 use case diagrams and a Data Flow Diagram (DFD)
-- Developed test plan, test cases, risk register, and KPIs
-- Created project timeline and budget estimation
-  
+
 ## Visual Diagrams
 
 ### AS-IS Process
@@ -29,10 +22,29 @@ An AI-based chatbot system that automates responses to frequently asked question
 ### Data Flow Diagram (DFD)
   <img width="494" height="346" alt="image" src="https://github.com/user-attachments/assets/acf694ce-96b3-4704-93dc-5db6879e28d5" />
 
+## Skills Demonstrated
+
+- Business Requirement Gathering
+- Process Analysis & Improvement
+- System Modelling (UML, DFD)
+- Stakeholder Thinking
+- Test Planning & Validation
+- Risk Analysis & KPI Definition
+
+## Structure  
+- Developed a comprehensive Business Requirements Document (BRD)
+- Defined functional and non-functional requirements
+- Created user stories and acceptance criteria
+- Designed AS-IS and TO-BE process models
+- Built 3 use case diagrams and a Data Flow Diagram (DFD)
+- Developed test plan, test cases, risk register, and KPIs
+- Created project timeline and budget estimation
+  
+
 ## Tools Used
 - Draw.io (Process and system diagrams)
 - Microsoft Word (Documentation)
-
+  
 ## Outcome
 The proposed solution improves response time, reduces workload on staff, and enhances student experience.
 
